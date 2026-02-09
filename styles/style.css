@@ -111,7 +111,9 @@ nav .menu a{
 }
 
 #banner .banner-image img{
-   max-width: 585 px; 
+    width: 684px;
+    height: 776px;
+   max-width: 1000px; 
 }
 
 #about{
